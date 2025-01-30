@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/list-creation-nexwave/static/css/main.e48edc56.css",
+    "main.js": "/list-creation-nexwave/static/js/main.f1845ae3.js",
+    "static/js/488.e5bd25f8.chunk.js": "/list-creation-nexwave/static/js/488.e5bd25f8.chunk.js",
+    "index.html": "/list-creation-nexwave/index.html",
+    "main.e48edc56.css.map": "/list-creation-nexwave/static/css/main.e48edc56.css.map",
+    "main.f1845ae3.js.map": "/list-creation-nexwave/static/js/main.f1845ae3.js.map",
+    "488.e5bd25f8.chunk.js.map": "/list-creation-nexwave/static/js/488.e5bd25f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e48edc56.css",
+    "static/js/main.f1845ae3.js"
+  ]
+}
